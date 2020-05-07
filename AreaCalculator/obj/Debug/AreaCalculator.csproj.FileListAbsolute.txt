@@ -1,0 +1,5 @@
+E:\Csharp\MyProjects\AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.dll
+E:\Csharp\MyProjects\AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.pdb
+E:\Csharp\MyProjects\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.csproj.CoreCompileInputs.cache
+E:\Csharp\MyProjects\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.dll
+E:\Csharp\MyProjects\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.pdb
